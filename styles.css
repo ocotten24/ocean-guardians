@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
+* {
+    font-family: Comfortaa;
+    margin: 0;
+    padding: 10pt;
+    background-color: #0c0908;
+    color: bisque;
+    text-align: center;
+}
+
+
+.contact {
+    padding-bottom: 15pt;
+}
+
+p {
+    width: 600pt;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.pagetop {
+    color: aqua
+}
+
+.ocean {
+    color:aqua
+}
+
+a:hover {
+    color: aqua;
+}
+
+.banner {
+    height: 70%;
+    width: 70%;
+    padding: 0;
+}
+
+.photo {
+    width: 800pt;
+}
+
+.button {
+    width: 500pt;
+    height: 50pt;
+    font-size: larger;
+}
