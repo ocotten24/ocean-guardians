@@ -14,7 +14,7 @@
     padding-bottom: 15pt;
 }
 
-p {
+.bodytext {
     width: 600pt;
     text-align: center;
     margin: 0 auto;
@@ -42,7 +42,7 @@ a:hover {
     width: 800pt;
 }
 
-.button {
+.click {
     width: 500pt;
     height: 50pt;
     font-size: larger;
